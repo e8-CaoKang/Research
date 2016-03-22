@@ -1,0 +1,289 @@
+PLAIN
+K 19
+AWSClientFactory.cs
+V 24
+file 19e-2.0.r2/17784368
+K 19
+AWSClientFactory.tt
+V 24
+file 1oo-2.0.r2/17784597
+K 17
+AWSConfigs.bcl.cs
+V 24
+file 2zx-2.0.r2/17784825
+K 13
+AWSConfigs.cs
+V 24
+file cbv-2.0.r2/17785050
+K 13
+AWSSection.cs
+V 24
+file 4gw-2.0.r2/17785273
+K 17
+Amazon.AWSSupport
+V 21
+dir 3-2.0.r2/17827482
+K 11
+Amazon.Auth
+V 21
+dir b-2.0.r2/17846725
+K 18
+Amazon.AutoScaling
+V 21
+dir h-2.0.r2/17944998
+K 21
+Amazon.CloudFormation
+V 21
+dir o-2.0.r2/17982758
+K 17
+Amazon.CloudFront
+V 21
+dir x-2.0.r2/18068097
+K 18
+Amazon.CloudSearch
+V 22
+dir 15-2.0.r2/18133373
+K 24
+Amazon.CloudSearchDomain
+V 22
+dir 1c-2.0.r2/18150240
+K 29
+Amazon.CloudSearch_2011_02_01
+V 22
+dir 1k-2.0.r2/18208984
+K 17
+Amazon.CloudTrail
+V 22
+dir 1r-2.0.r2/18227438
+K 17
+Amazon.CloudWatch
+V 22
+dir 1y-2.0.r2/18255794
+K 21
+Amazon.CloudWatchLogs
+V 22
+dir 25-2.0.r2/18290628
+K 22
+Amazon.CognitoIdentity
+V 22
+dir 2c-2.0.r2/18312799
+K 18
+Amazon.CognitoSync
+V 22
+dir 2j-2.0.r2/18334891
+K 19
+Amazon.DataPipeline
+V 22
+dir 2q-2.0.r2/18374882
+K 20
+Amazon.DirectConnect
+V 22
+dir 2x-2.0.r2/18419962
+K 17
+Amazon.DynamoDBv2
+V 22
+dir 34-2.0.r2/18479788
+K 10
+Amazon.EC2
+V 22
+dir 3e-2.0.r2/18832025
+K 18
+Amazon.ElastiCache
+V 22
+dir 3o-2.0.r2/18928952
+K 23
+Amazon.ElasticBeanstalk
+V 22
+dir 3v-2.0.r2/19004545
+K 27
+Amazon.ElasticLoadBalancing
+V 22
+dir 42-2.0.r2/19084796
+K 23
+Amazon.ElasticMapReduce
+V 22
+dir 4a-2.0.r2/19149822
+K 24
+Amazon.ElasticTranscoder
+V 22
+dir 4h-2.0.r2/19206246
+K 14
+Amazon.Glacier
+V 22
+dir 4o-2.0.r2/19255600
+K 25
+Amazon.IdentityManagement
+V 22
+dir 4z-2.0.r2/19407680
+K 19
+Amazon.ImportExport
+V 22
+dir 56-2.0.r2/19426221
+K 14
+Amazon.Kinesis
+V 22
+dir 5d-2.0.r2/19454749
+K 15
+Amazon.OpsWorks
+V 22
+dir 5k-2.0.r2/19584124
+K 10
+Amazon.RDS
+V 22
+dir 5r-2.0.r2/19718440
+K 15
+Amazon.Redshift
+V 22
+dir 5y-2.0.r2/19860820
+K 14
+Amazon.Route53
+V 22
+dir 65-2.0.r2/19911412
+K 21
+Amazon.Route53Domains
+V 22
+dir 6d-2.0.r2/19943553
+K 14
+Amazon.Runtime
+V 22
+dir 6k-2.0.r2/19980950
+K 9
+Amazon.S3
+V 22
+dir 6y-2.0.r2/20092437
+K 21
+Amazon.SDK.3.5.csproj
+V 24
+file 8bv-2.0.r2/20092599
+K 10
+Amazon.SQS
+V 22
+dir 7e-2.0.r2/20133822
+K 20
+Amazon.SecurityToken
+V 22
+dir 7n-2.0.r2/20151923
+K 15
+Amazon.SimpleDB
+V 22
+dir 7u-2.0.r2/20180128
+K 18
+Amazon.SimpleEmail
+V 22
+dir 82-2.0.r2/20220319
+K 32
+Amazon.SimpleNotificationService
+V 22
+dir 89-2.0.r2/20276331
+K 21
+Amazon.SimpleWorkflow
+V 22
+dir 8h-2.0.r2/20408892
+K 21
+Amazon.StorageGateway
+V 22
+dir 8o-2.0.r2/20505607
+K 11
+Amazon.Util
+V 22
+dir 8w-2.0.r2/20509592
+K 21
+GlobalSuppressions.cs
+V 24
+file 99y-2.0.r2/20509756
+K 10
+Properties
+V 22
+dir 8x-2.0.r2/20510289
+K 17
+RegionEndpoint.cs
+V 24
+file 7p1-2.0.r2/20510451
+K 10
+ThirdParty
+V 22
+dir 8y-2.0.r2/20520084
+K 14
+awssdk.dll.snk
+V 24
+file 4aq-2.0.r2/20520313
+K 13
+endpoints.xml
+V 24
+file 1rf-2.0.r2/20522037
+END
+ENDREP
+id: 1-2.0.r5/2769
+type: dir
+pred: 1-2.0.r4/42
+count: 2
+text: 5 0 2756 0 46459a46a7d40bdc1d5794531d54471c
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Amazon.SDK.3.5
+copyroot: 0 /
+
+PLAIN
+K 14
+Amazon.SDK.3.5
+V 17
+dir 1-2.0.r5/2769
+K 14
+Amazon.SDK.4.5
+V 22
+dir 9h-2.0.r2/20581597
+K 28
+Encompass.Communications.4.5
+V 22
+dir b8-2.0.r2/20628087
+K 21
+Encompass.Console.4.5
+V 22
+dir c0-2.0.r2/20635557
+K 19
+Encompass.Mango.sln
+V 24
+file c6c-2.0.r2/20635716
+K 25
+Encompass.Mango.userprefs
+V 24
+file a82-2.0.r2/20635928
+K 23
+Encompass.Reporting.4.5
+V 22
+dir c6-2.0.r2/20828858
+K 17
+Encompass.SDK.4.5
+V 22
+dir dt-2.0.r2/20833069
+END
+ENDREP
+id: 0-1.0.r5/3426
+type: dir
+pred: 0-1.0.r4/708
+count: 4
+text: 5 2977 436 0 41a8ee7f655ca02a3012c1a14a1a5525
+props: 3 0 52 0 d5819266011764974fb8da7ee72152aa
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 17
+dir 0-1.0.r5/3426
+END
+ENDREP
+id: 0.0.r5/3683
+type: dir
+pred: 0.0.r4/961
+count: 5
+text: 5 3622 48 0 e07f5f8c2b5c31baeebfe52cd4efc2fd
+cpath: /
+copyroot: 0 /
+
+9b-2.0.r2/20521882 delete-dir false false /Encompass.Mango/Amazon.SDK.3.5/bin
+
+9e-2.0.r2/20524804 delete-dir false false /Encompass.Mango/Amazon.SDK.3.5/obj
+
+
+3683 3810

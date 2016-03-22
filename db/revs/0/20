@@ -1,0 +1,193 @@
+PLAIN
+K 10
+API.csproj
+V 21
+file mn-19.0.r19/1258
+K 10
+Configs.cs
+V 21
+file ol-19.0.r19/1471
+K 10
+Properties
+V 19
+dir 3-19.0.r19/1978
+END
+ENDREP
+id: 1-19.0.r20/144
+type: dir
+pred: 1-19.0.r19/5134
+count: 1
+text: 20 0 131 0 3e5b5a7ee48eb6f1914ddd29767bca3b
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.API
+copyroot: 0 /
+
+PLAIN
+K 17
+Communications.cs
+V 21
+file kh-19.0.r19/5328
+K 21
+Communications.csproj
+V 22
+file 16j-19.0.r19/5560
+K 12
+Cryptography
+V 19
+dir c-19.0.r19/8543
+K 3
+Net
+V 20
+dir e-19.0.r19/45315
+K 10
+Properties
+V 20
+dir t-19.0.r19/45784
+END
+ENDREP
+id: b-19.0.r20/597
+type: dir
+pred: b-19.0.r19/50483
+count: 1
+text: 20 356 228 0 2a0ca40ec8b3e1c6a281ea5aa9f3e317
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.Communications
+copyroot: 0 /
+
+PLAIN
+K 14
+Console.csproj
+V 23
+file 14h-19.0.r19/50690
+K 12
+Default.aspx
+V 22
+file dl-19.0.r19/50912
+K 15
+Default.aspx.cs
+V 22
+file hq-19.0.r19/51132
+K 24
+Default.aspx.designer.cs
+V 23
+file 12p-19.0.r19/51355
+K 11
+Global.asax
+V 22
+file n9-19.0.r19/51589
+K 14
+Global.asax.cs
+V 22
+file ep-19.0.r19/51805
+K 10
+web.config
+V 22
+file mr-19.0.r19/57150
+END
+ENDREP
+id: 13-19.0.r20/1180
+type: dir
+pred: 13-19.0.r19/57794
+count: 1
+text: 20 823 344 0 469c60fbe28ae28cdce7ad1dacd43e68
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.Console
+copyroot: 0 /
+
+PLAIN
+K 4
+Data
+V 22
+dir 1a-19.0.r19/242352
+K 23
+Encompass.Reporting.snk
+V 23
+file pv-19.0.r19/242514
+K 10
+Properties
+V 22
+dir 2p-19.0.r19/243109
+K 16
+Reporting.csproj
+V 23
+file wu-19.0.r19/243275
+END
+ENDREP
+id: 19-19.0.r20/1609
+type: dir
+pred: 19-19.0.r19/247452
+count: 1
+text: 20 1402 194 0 29fdc5ccc270c8eaf580fc8240cb3921
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.Reporting
+copyroot: 0 /
+
+PLAIN
+K 13
+Encompass.API
+V 18
+dir 1-19.0.r20/144
+K 24
+Encompass.Communications
+V 18
+dir b-19.0.r20/597
+K 17
+Encompass.Console
+V 20
+dir 13-19.0.r20/1180
+K 19
+Encompass.Reporting
+V 20
+dir 19-19.0.r20/1609
+K 13
+Encompass.sln
+V 19
+file 1-12.0.r18/206
+K 19
+Encompass.userprefs
+V 19
+file 4-12.0.r18/421
+END
+ENDREP
+id: 0-1.0.r20/2143
+type: dir
+pred: 0-1.0.r19/247971
+count: 19
+text: 20 1835 295 0 777d1a38fe1d0d5319b614b8a93f52e8
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 18
+dir 0-1.0.r20/2143
+END
+ENDREP
+id: 0.0.r20/2412
+type: dir
+pred: 0.0.r19/248243
+count: 20
+text: 20 2350 49 0 6e08730d426df01f63c52a032485f59f
+cpath: /
+copyroot: 0 /
+
+5-19.0.r19/3041 delete-dir false false /Encompass.Mango/Encompass.API/bin
+
+8-19.0.r19/4776 delete-dir false false /Encompass.Mango/Encompass.API/obj
+
+u-19.0.r19/46948 delete-dir false false /Encompass.Mango/Encompass.Communications/bin
+
+x-19.0.r19/50013 delete-dir false false /Encompass.Mango/Encompass.Communications/obj
+
+14-19.0.r19/54844 delete-dir false false /Encompass.Mango/Encompass.Console/bin
+
+16-19.0.r19/56995 delete-dir false false /Encompass.Mango/Encompass.Console/obj
+
+2q-19.0.r19/244476 delete-dir false false /Encompass.Mango/Encompass.Reporting/bin
+
+2t-19.0.r19/247014 delete-dir false false /Encompass.Mango/Encompass.Reporting/obj
+
+
+2412 2546

@@ -1,0 +1,103 @@
+PLAIN
+K 12
+Default.aspx
+V 24
+file 9ia-2.0.r2/20628253
+K 15
+Default.aspx.cs
+V 24
+file 9uy-2.0.r2/20628479
+K 24
+Default.aspx.designer.cs
+V 24
+file a7k-2.0.r2/20628708
+K 28
+Encompass.Console.4.5.csproj
+V 24
+file 2bd-2.0.r2/20628946
+K 11
+Global.asax
+V 24
+file 3aj-2.0.r2/20629189
+K 14
+Global.asax.cs
+V 24
+file 54e-2.0.r2/20629411
+K 10
+web.config
+V 24
+file 2wp-2.0.r2/20634879
+END
+ENDREP
+id: c0-2.0.r9/383
+type: dir
+pred: c0-2.0.r2/20635557
+count: 1
+text: 9 0 370 0 7f943c8b88a5e15de689ea4e4aa076eb
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.Console.4.5
+copyroot: 0 /
+
+PLAIN
+K 14
+Amazon.SDK.3.5
+V 17
+dir 1-2.0.r5/2769
+K 14
+Amazon.SDK.4.5
+V 18
+dir 9h-2.0.r7/2445
+K 28
+Encompass.Communications.4.5
+V 17
+dir b8-2.0.r8/267
+K 21
+Encompass.Console.4.5
+V 17
+dir c0-2.0.r9/383
+K 19
+Encompass.Mango.sln
+V 24
+file c6c-2.0.r2/20635716
+K 23
+Encompass.Reporting.4.5
+V 22
+dir c6-2.0.r2/20828858
+K 17
+Encompass.SDK.4.5
+V 22
+dir dt-2.0.r2/20833069
+END
+ENDREP
+id: 0-1.0.r9/978
+type: dir
+pred: 0-1.0.r8/874
+count: 8
+text: 9 604 361 0 9bbdcaea5c4db840b650925d31140a8a
+props: 3 0 52 0 d5819266011764974fb8da7ee72152aa
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 16
+dir 0-1.0.r9/978
+END
+ENDREP
+id: 0.0.r9/1232
+type: dir
+pred: 0.0.r8/1129
+count: 9
+text: 9 1172 47 0 55d2d3d8c15fbf1daa6678d328abd102
+cpath: /
+copyroot: 0 /
+
+c0-2.0.t8-9 modify-dir false true /Encompass.Mango/Encompass.Console.4.5
+
+c1-2.0.r2/20632511 delete-dir false false /Encompass.Mango/Encompass.Console.4.5/bin
+
+c3-2.0.r2/20634717 delete-dir false false /Encompass.Mango/Encompass.Console.4.5/obj
+
+
+1232 1360

@@ -1,0 +1,55 @@
+PLAIN
+K 28
+Encompass.Communications.4.5
+V 17
+dir b8-2.0.r8/267
+K 21
+Encompass.Console.4.5
+V 17
+dir c0-2.0.r9/383
+K 23
+Encompass.Reporting.4.5
+V 18
+dir c6-2.0.r10/223
+K 17
+Encompass.SDK.4.5
+V 18
+dir dt-2.0.r11/167
+K 13
+Encompass.sln
+V 20
+file 1-12.0.r12/1189
+K 19
+Encompass.userprefs
+V 20
+file 4-12.0.r12/1384
+END
+ENDREP
+id: 0-1.0.r15/320
+type: dir
+pred: 0-1.0.r14/363
+count: 14
+text: 15 0 307 0 15bcbfc3db75a6fce1e473be21979cd9
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 17
+dir 0-1.0.r15/320
+END
+ENDREP
+id: 0.0.r15/581
+type: dir
+pred: 0.0.r14/624
+count: 15
+text: 15 520 48 0 0abd21ff136222595f7548facf9173e3
+cpath: /
+copyroot: 0 /
+
+1-2.0.r5/2769 delete-dir false false /Encompass.Mango/Amazon.SDK.3.5
+
+
+581 710

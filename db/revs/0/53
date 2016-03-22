@@ -1,0 +1,68 @@
+id: 1-51.0-24.r53/0
+type: dir
+pred: 1-51.0-24.r52/500
+count: 2
+text: 52 392 95 0 3ceffcfbce8b0d62c1d0242b008686d5
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass One/Encompass.Shared
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 20
+dir 1-19.0.r22/14579
+K 24
+Encompass.Communications
+V 18
+dir b-19.0.r20/597
+K 17
+Encompass.Console
+V 20
+dir 13-19.0.r20/1180
+K 19
+Encompass.Reporting
+V 24
+dir 19-19.0-24.r51/11231
+K 16
+Encompass.Shared
+V 19
+dir 1-51.0-24.r53/0
+K 13
+Encompass.sln
+V 19
+file 1-12.0.r18/206
+K 19
+Encompass.userprefs
+V 24
+file 4-12.0-24.r51/12876
+END
+ENDREP
+id: 0-1.0-24.r53/597
+type: dir
+pred: 0-1.0-24.r52/1054
+count: 52
+text: 53 231 353 0 167992055785d20d1266d1accb8ed0f4
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 20
+dir 0-1.0-24.r53/597
+END
+ENDREP
+id: 0.0.r53/880
+type: dir
+pred: 0.0.r52/1340
+count: 53
+text: 53 818 49 0 55d4715768ed4b95d8eb057749eb2c66
+cpath: /
+copyroot: 0 /
+
+1-51.0-24.t52-1n modify-dir false true /Encompass One/Encompass.Shared
+
+
+880 1010

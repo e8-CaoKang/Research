@@ -1,0 +1,446 @@
+id: qv-19.0-28.r28/0
+type: file
+pred: qv-19.0.r19/93153
+count: 1
+text: 2 10537978 314 297 d9e22a74f4691dd3720245f99e13f369 121f230ae024cbaf6ed3ef364e8701af51b786b1 18-l/_qw
+cpath: /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IFormula.cs
+copyfrom: 24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula.cs
+
+id: l7-19.1-28.r28/352
+type: file
+pred: l7-19.0.r19/93408
+count: 1
+text: 2 6862119 258 516 b1a07a3e44bf40339ff44f2fe0e3c6ee 5478b35483d128e546dcf9fd5f6eb0c7b00022e7 18-l/_l8
+cpath: /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IFormula2.cs
+copyfrom: 24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula2.cs
+
+id: vg-19.2-28.r28/707
+type: file
+pred: vg-19.0.r19/93663
+count: 1
+text: 2 10236409 365 348 f15b2b0f16e51009e4bbd374b34157b3 69d48d1aaefe881246b5716cb42532da647d14e5 18-l/_vh
+cpath: /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IOperator.cs
+copyfrom: 24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithOperator.cs
+
+PLAIN
+K 10
+ICustom.cs
+V 22
+file sf-19.0.r19/91408
+K 12
+IDateTime.cs
+V 22
+file ti-19.0.r19/91658
+K 11
+IDecimal.cs
+V 22
+file 69-19.0.r19/91909
+K 11
+IFormula.cs
+V 21
+file qv-19.0-28.r28/0
+K 12
+IFormula2.cs
+V 23
+file l7-19.1-28.r28/352
+K 7
+IInt.cs
+V 22
+file nt-19.0.r19/92160
+K 8
+IList.cs
+V 22
+file 3n-19.0.r19/92404
+K 12
+IOperator.cs
+V 23
+file vg-19.2-28.r28/707
+K 8
+ITime.cs
+V 22
+file if-19.0.r19/92652
+K 14
+IValidation.cs
+V 22
+file qb-19.0.r19/92898
+END
+ENDREP
+id: 1i-19.0-24.r28/1523
+type: dir
+pred: 1i-19.0.r19/94390
+count: 1
+text: 28 1063 447 0 cd17f3ff8df7d34c636ccc6dde753482
+cpath: /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts
+copyroot: 24 /Encompass One
+
+PLAIN
+K 9
+Contracts
+V 23
+dir 1i-19.0-24.r28/1523
+K 9
+Custom.cs
+V 22
+file mt-19.0.r19/94574
+K 11
+DateTime.cs
+V 23
+file 165-19.0.r19/94814
+K 10
+Decimal.cs
+V 22
+file ve-19.0.r19/95057
+K 12
+ExcelTime.cs
+V 22
+file ty-19.0.r19/95297
+K 10
+Factory.cs
+V 23
+file 199-19.0.r19/95541
+K 8
+Formulas
+V 23
+dir 1k-19.0-24.r27/1350
+K 9
+IRange.cs
+V 23
+file a1-19.0.r19/100675
+K 6
+Int.cs
+V 23
+file as-19.0.r19/100916
+K 7
+List.cs
+V 23
+file mx-19.0.r19/101153
+K 8
+Range.cs
+V 23
+file rn-19.0.r19/101392
+K 7
+Time.cs
+V 24
+file 104-19.0.r19/101632
+K 7
+Type.cs
+V 23
+file vy-19.0.r19/101872
+K 13
+Validation.cs
+V 23
+file ex-19.0.r19/102112
+K 23
+ValidationCollection.cs
+V 23
+file b6-19.0.r19/102358
+K 15
+WarningStyle.cs
+V 24
+file 17b-19.0.r19/102615
+K 14
+WithFormula.cs
+V 24
+file 1a5-19.0.r19/102862
+K 15
+WithFormula2.cs
+V 23
+file sd-19.0.r19/103110
+K 15
+WithOperator.cs
+V 24
+file 12h-19.0.r19/103357
+END
+ENDREP
+id: 1h-19.0-24.r28/2626
+type: dir
+pred: 1h-19.0-24.r27/2451
+count: 3
+text: 28 1744 869 0 9c45167cc8322ea17d2f2031f2958e1f
+cpath: /Encompass One/Encompass.Reporting/Data/DataValidation
+copyroot: 24 /Encompass One
+
+PLAIN
+K 10
+Address.cs
+V 23
+file 153-19.0.r19/57995
+K 18
+BackgroundImage.cs
+V 22
+file jy-19.0.r19/58224
+K 14
+CellAddress.cs
+V 23
+file 13d-19.0.r19/58459
+K 11
+CellBase.cs
+V 22
+file nb-19.0.r22/14796
+K 12
+CellStore.cs
+V 23
+file 13n-19.0.r19/58920
+K 10
+Comment.cs
+V 22
+file x4-19.0.r19/59152
+K 20
+CommentCollection.cs
+V 23
+file 14l-19.0.r19/59378
+K 21
+ConditionalFormatting
+V 22
+dir 1c-19.0-24.r25/778
+K 14
+DataValidation
+V 23
+dir 1h-19.0-24.r28/2626
+K 11
+Document.cs
+V 24
+file 12r-19.0.r19/104660
+K 21
+DocumentEncryption.cs
+V 24
+file 16h-19.0.r19/104891
+K 7
+Drawing
+V 22
+dir 1n-19.0.r19/117790
+K 10
+Encryption
+V 22
+dir 1r-19.0.r19/119181
+K 7
+Formula
+V 22
+dir 1s-19.0.r19/198370
+K 15
+HeaderFooter.cs
+V 23
+file 7w-19.0.r19/198540
+K 12
+HyperLink.cs
+V 23
+file u2-19.0.r19/198773
+K 11
+IRangeID.cs
+V 24
+file 135-19.0.r19/199001
+K 13
+NamedRange.cs
+V 23
+file j1-19.0.r19/199230
+K 23
+NamedRangeCollection.cs
+V 23
+file c8-19.0.r19/199459
+K 19
+OfficeProperties.cs
+V 23
+file rh-19.0.r19/199698
+K 9
+Packaging
+V 22
+dir 2b-19.0.r19/215416
+K 18
+PrinterSettings.cs
+V 24
+file 10w-19.0.r19/215587
+K 17
+ProtectedRange.cs
+V 23
+file 57-19.0.r19/215824
+K 27
+ProtectedRangeCollection.cs
+V 23
+file nl-19.0.r19/216059
+K 13
+Protection.cs
+V 23
+file np-19.0.r19/216302
+K 8
+Range.cs
+V 23
+file qr-19.0.r19/216532
+K 12
+RangeBase.cs
+V 22
+file qd-19.0.r22/37935
+K 18
+RangeCollection.cs
+V 24
+file 127-19.0.r19/216989
+K 18
+SheetProtection.cs
+V 24
+file 19x-19.0.r19/217226
+K 18
+StyleCollection.cs
+V 23
+file dn-19.0.r19/217461
+K 6
+Styles
+V 22
+dir 2g-19.0.r19/228003
+K 6
+Tables
+V 22
+dir 2k-19.0.r19/232232
+K 13
+TextFormat.cs
+V 23
+file d7-19.0.r19/232400
+K 5
+Utils
+V 22
+dir 2n-19.0.r19/235506
+K 3
+Vba
+V 22
+dir 2o-19.0.r19/237664
+K 11
+Workbook.cs
+V 23
+file 93-19.0.r19/237829
+K 15
+WorkbookView.cs
+V 23
+file cz-19.0.r19/238058
+K 12
+Worksheet.cs
+V 22
+file gb-19.0.r22/38184
+K 18
+WorksheetColumn.cs
+V 23
+file tk-19.0.r19/238522
+K 15
+WorksheetRow.cs
+V 23
+file 50-19.0.r19/238757
+K 18
+WorksheetStyles.cs
+V 23
+file ci-19.0.r19/238989
+K 16
+WorksheetView.cs
+V 23
+file 9k-19.0.r19/239226
+K 13
+Worksheets.cs
+V 23
+file xy-19.0.r19/239459
+K 12
+XmlHelper.cs
+V 23
+file zg-19.0.r19/239691
+K 19
+XmlHelperFactory.cs
+V 23
+file 62-19.0.r19/239922
+END
+ENDREP
+id: 1a-19.0-24.r28/5034
+type: dir
+pred: 1a-19.0-24.r27/4859
+count: 7
+text: 28 2839 2182 0 79571a7e1896c78169390ea7b8df231b
+cpath: /Encompass One/Encompass.Reporting/Data
+copyroot: 24 /Encompass One
+
+PLAIN
+K 4
+Data
+V 23
+dir 1a-19.0-24.r28/5034
+K 23
+Encompass.Reporting.snk
+V 23
+file pv-19.0.r19/242514
+K 10
+Properties
+V 22
+dir 2p-19.0.r19/243109
+K 16
+Reporting.csproj
+V 24
+file wu-19.0-24.r25/3381
+END
+ENDREP
+id: 19-19.0-24.r28/5442
+type: dir
+pred: 19-19.0-24.r27/5267
+count: 8
+text: 28 5233 196 0 c852c9584ca7cb3102d10b6b0dbe94dc
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass One/Encompass.Reporting
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 20
+dir 1-19.0.r22/14579
+K 24
+Encompass.Communications
+V 18
+dir b-19.0.r20/597
+K 17
+Encompass.Console
+V 20
+dir 13-19.0.r20/1180
+K 19
+Encompass.Reporting
+V 23
+dir 19-19.0-24.r28/5442
+K 13
+Encompass.sln
+V 19
+file 1-12.0.r18/206
+K 19
+Encompass.userprefs
+V 23
+file 4-12.0-24.r26/7609
+END
+ENDREP
+id: 0-1.0-24.r28/6001
+type: dir
+pred: 0-1.0-24.r27/5826
+count: 27
+text: 28 5684 304 0 658b5761adb3ffa8d931fe947e1be99d
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 21
+dir 0-1.0-24.r28/6001
+END
+ENDREP
+id: 0.0.r28/6287
+type: dir
+pred: 0.0.r27/6112
+count: 28
+text: 28 6224 50 0 54662fa0f214a2d6f870cac41a495a41
+cpath: /
+copyroot: 0 /
+
+qv-19._0.t27-u add-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IFormula.cs
+24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula.cs
+l7-19._1.t27-u add-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IFormula2.cs
+24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula2.cs
+vg-19._2.t27-u add-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IOperator.cs
+24 /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithOperator.cs
+qv-19.0.r19/93153 delete-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula.cs
+
+l7-19.0.r19/93408 delete-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithFormula2.cs
+
+vg-19.0.r19/93663 delete-file false false /Encompass One/Encompass.Reporting/Data/DataValidation/Contracts/IWithOperator.cs
+
+
+6287 6419

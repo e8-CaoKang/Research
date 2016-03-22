@@ -1,0 +1,1043 @@
+id: 1t-45.1-46.r46/0
+type: file
+pred: 1t-45.0-24.r45/45889
+count: 1
+text: 45 33049 398 381 8e64031680ed1aba589c984572faf762 e79c3f993ddbeda0f14489d59c36fc57dd87bb50 44-1b/_1u
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ComparisonOperator.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/ComparisonOperator.cs
+
+id: 2k-45.2-46.r46/356
+type: file
+pred: 2k-45.0-24.r45/46159
+count: 1
+text: 45 38110 568 1855 dffc180b2f8df9073febf941fd814cb9 c14f56ef0182c5e27e13cbe1adcae302f7e2205e 44-1b/_2l
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/CompoundCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/CompoundCriterion.cs
+
+id: 6-45.3-46.r46/713
+type: dir
+pred: 6-45.0-24.r45/47252
+count: 1
+text: 45 47133 106 0 a72fccf52fc37cef0de3e393b5d4cd4e
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Crc
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Crc
+
+id: d-45.4-46.r46/979
+type: file
+pred: d-45.0-24.r45/47449
+count: 1
+text: 45 444 1008 2741 e122c3310e0f6d9cdc0e88b1657230e2 c19a5af73629a90d95e39bba7eb629f8edbd9956 44-1b/_e
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/DemonstrateFileSelector.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/DemonstrateFileSelector.cs
+
+id: z-45.5-46.r46/1344
+type: file
+pred: z-45.0-24.r45/47722
+count: 1
+text: 45 24370 753 2099 78b495a09e636a57690e85f767d6fc8b fee0d20f52a22c40252e3887d61c395cce79f512 44-1b/_10
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/EnumUtil.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/EnumUtil.cs
+
+id: rv-19.6-46.r46/1682
+type: file
+pred: rv-19.0-24.r45/47982
+count: 3
+text: 45 45063 803 12867 3e8416ddf0d1b478c583144bd92e6ea9 f061fa891754463460a1363f2f462e7bead8b011 44-1b/_33
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/FileSelector.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/FileSelector.cs
+
+id: 1p-45.7-46.r46/2031
+type: file
+pred: 1p-45.0-24.r45/48274
+count: 1
+text: 45 30930 138 125 007bdde57a6d1149f64a620c75991526 2ac8e5da3d4757c7c6e67a89af5228a009b445a8 44-1b/_1q
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/LogicalConjunction.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/LogicalConjunction.cs
+
+id: 29-45.8-46.r46/2390
+type: file
+pred: 29-45.0-24.r45/48544
+count: 1
+text: 45 35687 771 1776 01e224a1bae9cbfb8839fad2f8ec20b6 45e2cdde3f05adfedc21e73c8ff65dce13fa5edf 44-1b/_2a
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/NameCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/NameCriterion.cs
+
+id: 2q-45.9-46.r46/2740
+type: file
+pred: 2q-45.0-24.r45/48810
+count: 1
+text: 45 42673 307 525 a7a11bf66b2bf953aff994a0f4c939b8 93f9393d0c70bdd46ace0d28f68366982066a317 44-1b/_2r
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/SelectionCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/SelectionCriterion.cs
+
+id: l-45.a-46.r46/3099
+type: file
+pred: l-45.0-24.r45/49080
+count: 1
+text: 45 22331 540 1433 031993757cee8c206ad42343029abcd4 7c05d89879868bc6f7838beb5062cecf1b5310f3 44-1b/_m
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/SizeCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/SizeCriterion.cs
+
+id: 2y-45.b-46.r46/3446
+type: file
+pred: 2y-45.0-24.r45/49344
+count: 1
+text: 45 43722 656 2114 7d781cfefdac98bef44e45d39d5caedb cd18cb95656bd188d03098facd43a1eea4d41152 44-1b/_2z
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/TimeCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/TimeCriterion.cs
+
+id: 2d-45.c-46.r46/3796
+type: file
+pred: 2d-45.0-24.r45/49610
+count: 1
+text: 45 36845 624 1439 3842f241213725ec7c215f757ac61865 f8598d3138030b43bd17d8fd4f5cacb7a18f98b9 44-1b/_2e
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/TypeCriterion.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/TypeCriterion.cs
+
+id: 1l-45.d-46.r46/4146
+type: file
+pred: 1l-45.0-24.r45/49876
+count: 1
+text: 45 30679 128 115 0679e4a471606f03b0ff322882705dfd 6fd8efcd12176256f56a01b10726ca20fe6d5b3d 44-1b/_1m
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/WhichTime.cs
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/WhichTime.cs
+
+id: 8-45.e-46.r46/4487
+type: dir
+pred: 8-45.0-24.r45/71412
+count: 1
+text: 45 68184 3215 0 1a8249a6ed2089cf38748c02eebe1a72
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zip
+copyfrom: 45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zip
+
+id: 14-44.f-46.r46/4755
+type: file
+pred: 14-44.0-24.r44/10373
+count: 1
+text: 44 9576 456 1456 0db7296bdf3ec420687ae70e32b714ae 07127c0bff0168122c3c7f1227e5df68ea35301e 43-1a/_15
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/Adler.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/Adler.cs
+
+id: 9-44.g-46.r46/5098
+type: file
+pred: 9-44.0-24.r44/10635
+count: 1
+text: 44 335 170 153 4eeb4a9626469b9a98afe6c6f82562cf 925bb7ad10a39111daa449d9be2d618079f6df25 43-1a/_a
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/BlockState.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/BlockState.cs
+
+id: 7-44.h-46.r46/5446
+type: file
+pred: 7-44.0-24.r44/10898
+count: 1
+text: 44 0 322 305 7fcb493282741542852d90ae93e1662c c3c51339f95ec49d965df3a6c93f4045548fc97d 43-1a/_8
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionLevel.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionLevel.cs
+
+id: g-44.i-46.r46/5804
+type: file
+pred: g-44.0-24.r44/11165
+count: 1
+text: 44 3395 148 131 45061707e6a7aff494365b0cff03a3fc a64fcd927dce4d6d81e2d6c47ce88b13cf6d66ad 43-1a/_h
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionMode.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionMode.cs
+
+id: y-44.j-46.r46/6163
+type: file
+pred: y-44.0-24.r44/11434
+count: 1
+text: 44 8715 168 151 b5e1a9ded5b544b5fc4e9e6d6c25f98e 736535a6b373ad4c4e9954e6f2b71811447902ed 43-1a/_z
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionStrategy.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionStrategy.cs
+
+id: r-44.k-46.r46/6530
+type: file
+pred: r-44.0-24.r44/11707
+count: 1
+text: 44 5600 134 121 dce66d7741d6df2b361c8c58337ad195 d3cccce5d1b9c62007a3c99bb8374d42ae0f6c4d 43-1a/_s
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateFlavor.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateFlavor.cs
+
+id: jc-19.l-46.r46/6885
+type: file
+pred: jc-19.0-44.r44/11974
+count: 2
+text: 44 518 24 32624 7de652d9c98eda4846cec0a623e306a2 5be031789ff2f7fbc3a8936e3b083c2b25959175 43-1a/_b
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateManager.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateManager.cs
+
+id: cr-19.m-46.r46/7244
+type: file
+pred: cr-19.0-24.r38/6258
+count: 2
+text: 38 348 24 5265 4ce8a50279b04dac0fbe69f8dccfbf6c 1e43ba1a676e89c6b81afa5b6d7a7e3ed4e4346e 37-14/_d
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateStream.cs
+copyfrom: 38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateStream.cs
+
+id: w-44.n-46.r46/7599
+type: file
+pred: w-44.0-24.r44/12329
+count: 1
+text: 44 8545 157 140 6778e9a242c1d67324984b5f66c2d30f fd82459756fff51d5f95bd81b5b39c9b71cc9068 43-1a/_x
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/FlushType.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/FlushType.cs
+
+id: mh-19.o-46.r46/7946
+type: file
+pred: mh-19.0-24.r38/6549
+count: 2
+text: 38 701 24 7933 a0a31463bb6f5dae5404daa5e1dfd5dd 635d678cd18db31b6f1ab4cbbbb920d14e8617f1 37-14/_h
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/GZipStream.cs
+copyfrom: 38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/GZipStream.cs
+
+id: u-44.p-46.r46/8295
+type: file
+pred: u-44.0-24.r44/12592
+count: 1
+text: 44 5794 2738 13659 a69d90947f2acfc3526e361cc2f2847b d220a5504975416165463dd41706b6eb9cbc1909 43-1a/_v
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateBlocks.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateBlocks.cs
+
+id: c-44.q-46.r46/8653
+type: file
+pred: c-44.0-24.r44/12862
+count: 1
+text: 44 571 2431 13788 fcfd032d9f578ef8ebd1934bd0c22b93 b9326d1e4e2226e9cb3f8c934c0eed1eb7f79c47 43-1a/_d
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateCodes.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateCodes.cs
+
+id: 4m-19.r-46.r46/9008
+type: file
+pred: 4m-19.1-44.r44/13130
+count: 2
+text: 44 5503 23 8445 ae088b9f71170f0ced4a34a5a10f4485 7abcdd8636e22e72066f7e0efb4aa240566e42f5 43-1a/_p
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateManager.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateManager.cs
+
+id: l-44.s-46.r46/9367
+type: file
+pred: l-44.0-24.r44/13485
+count: 1
+text: 44 4792 258 604 422c3fd6e0f9c93df30bd92cc5b12f79 b195583437900f6fd807decc5f8048dde1ee65f0 43-1a/_m
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InternalConstants.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InternalConstants.cs
+
+id: n-44.t-46.r46/9730
+type: file
+pred: n-44.0-24.r44/13756
+count: 1
+text: 44 5063 427 410 09749b48987760f03861b3ca29f4d191 1ec15e0e447f50ce52cb301dfca2e0e43b2d6c78 43-1a/_o
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InternalInflateConstants.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InternalInflateConstants.cs
+
+id: lb-19.u-46.r46/10107
+type: file
+pred: lb-19.0-24.r44/14034
+count: 3
+text: 44 5552 25 20310 b8d69f3725b2bafd3f7d88dcef1dcd92 e197f2bf1ff4064c3ca271db379b859c7c0927a2 43-1a/_q
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ParallelDeflateOutputStream.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ParallelDeflateOutputStream.cs
+
+id: 12-44.v-46.r46/10494
+type: file
+pred: 12-44.0-24.r44/14343
+count: 1
+text: 44 9074 489 1036 24c4fa87fc52fe8e433305dadb6dd08d 18aa5b6c98ae4b6174a8d391972c45d1c306098c 43-1a/_13
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/SharedUtils.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/SharedUtils.cs
+
+id: i-44.w-46.r46/10850
+type: file
+pred: i-44.0-24.r44/14611
+count: 1
+text: 44 3556 1177 3753 f6008941ffe9176092842b5a3e1b7c55 45a78553b072cdf6c59c6d3cca0d9eef006faa66 43-1a/_j
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/StaticTree.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/StaticTree.cs
+
+id: e-44.x-46.r46/11202
+type: file
+pred: e-44.0-24.r44/14877
+count: 1
+text: 44 3015 367 760 1bd03f4ec4f8da06993b9f0a65643465 841020431a3edb7c70938955e0f60ec75aa61210 43-1a/_f
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/WorkItem.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/WorkItem.cs
+
+id: 15z-19.y-46.r46/11548
+type: file
+pred: 15z-19.0-24.r44/15139
+count: 3
+text: 44 4746 22 13243 e7a81c669924c5da7158125298a379fe f42001073b499ec75012b4bafb12e94f5fb874fd 43-1a/_k
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibBaseStream.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibBaseStream.cs
+
+id: y6-19.z-46.r46/11911
+type: file
+pred: y6-19.2-44.r44/15437
+count: 3
+text: 44 5747 23 340 47db196d6431e61059731a6ba4045853 45381c49f62016ac59b220f9490deff8b59a3e58 43-1a/_t
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibException.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibException.cs
+
+id: 12x-19.10-46.r46/12268
+type: file
+pred: 12x-19.0-24.r38/7722
+count: 2
+text: 38 239 24 4845 cc9a58fe8dd6c221bbd63fc356cbfb5c 207bfd88d4791025da227aa95bd1b191fecd2933 37-14/_b
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibStream.cs
+copyfrom: 38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibStream.cs
+
+id: 10-44.11-46.r46/12621
+type: file
+pred: 10-44.0-24.r44/15788
+count: 1
+text: 44 8896 165 148 d5951b4f84edcc99490f79d0b1d98474 2f9eb3635bd7cf39e15348e47def1ab02e378871 43-1a/_11
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibStreamFlavor.cs
+copyfrom: 44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibStreamFlavor.cs
+
+PLAIN
+K 8
+Adler.cs
+V 24
+file 14-44.f-46.r46/4755
+K 13
+BlockState.cs
+V 23
+file 9-44.g-46.r46/5098
+K 19
+CompressionLevel.cs
+V 23
+file 7-44.h-46.r46/5446
+K 18
+CompressionMode.cs
+V 23
+file g-44.i-46.r46/5804
+K 22
+CompressionStrategy.cs
+V 23
+file y-44.j-46.r46/6163
+K 16
+DeflateFlavor.cs
+V 23
+file r-44.k-46.r46/6530
+K 17
+DeflateManager.cs
+V 24
+file jc-19.l-46.r46/6885
+K 16
+DeflateStream.cs
+V 24
+file cr-19.m-46.r46/7244
+K 12
+FlushType.cs
+V 23
+file w-44.n-46.r46/7599
+K 13
+GZipStream.cs
+V 24
+file mh-19.o-46.r46/7946
+K 10
+InfTree.cs
+V 23
+file fx-19.0.r19/208837
+K 16
+InflateBlocks.cs
+V 23
+file u-44.p-46.r46/8295
+K 15
+InflateCodes.cs
+V 23
+file c-44.q-46.r46/8653
+K 17
+InflateManager.cs
+V 24
+file 4m-19.r-46.r46/9008
+K 20
+InternalConstants.cs
+V 23
+file l-44.s-46.r46/9367
+K 27
+InternalInflateConstants.cs
+V 23
+file n-44.t-46.r46/9730
+K 30
+ParallelDeflateOutputStream.cs
+V 25
+file lb-19.u-46.r46/10107
+K 14
+SharedUtils.cs
+V 25
+file 12-44.v-46.r46/10494
+K 13
+StaticTree.cs
+V 24
+file i-44.w-46.r46/10850
+K 7
+Tree.cs
+V 23
+file h6-19.0.r19/209614
+K 11
+WorkItem.cs
+V 24
+file e-44.x-46.r46/11202
+K 17
+ZlibBaseStream.cs
+V 26
+file 15z-19.y-46.r46/11548
+K 12
+ZlibCodec.cs
+V 23
+file zi-19.0.r19/210375
+K 16
+ZlibConstants.cs
+V 24
+file 16v-19.0.r19/210630
+K 16
+ZlibException.cs
+V 25
+file y6-19.z-46.r46/11911
+K 13
+ZlibStream.cs
+V 27
+file 12x-19.10-46.r46/12268
+K 19
+ZlibStreamFlavor.cs
+V 26
+file 10-44.11-46.r46/12621
+END
+ENDREP
+id: 2e-19.0-46.r46/14398
+type: dir
+pred: 2e-19.0.r19/211743
+count: 1
+text: 46 12987 1398 0 9d388ec8ec176ee4ebbd17ff81e80db6
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib
+copyroot: 46 /Encompass One/Encompass.Reporting/Data/Packaging/Ionic
+
+PLAIN
+K 21
+ComparisonOperator.cs
+V 21
+file 1t-45.1-46.r46/0
+K 20
+CompoundCriterion.cs
+V 23
+file 2k-45.2-46.r46/356
+K 3
+Crc
+V 21
+dir 6-45.3-46.r46/713
+K 26
+DemonstrateFileSelector.cs
+V 22
+file d-45.4-46.r46/979
+K 11
+EnumUtil.cs
+V 23
+file z-45.5-46.r46/1344
+K 15
+FileSelector.cs
+V 24
+file rv-19.6-46.r46/1682
+K 21
+LogicalConjunction.cs
+V 24
+file 1p-45.7-46.r46/2031
+K 16
+NameCriterion.cs
+V 24
+file 29-45.8-46.r46/2390
+K 21
+SelectionCriterion.cs
+V 24
+file 2q-45.9-46.r46/2740
+K 16
+SizeCriterion.cs
+V 23
+file l-45.a-46.r46/3099
+K 16
+TimeCriterion.cs
+V 24
+file 2y-45.b-46.r46/3446
+K 16
+TypeCriterion.cs
+V 24
+file 2d-45.c-46.r46/3796
+K 12
+WhichTime.cs
+V 24
+file 1l-45.d-46.r46/4146
+K 3
+Zip
+V 22
+dir 8-45.e-46.r46/4487
+K 4
+Zlib
+V 24
+dir 2e-19.0-46.r46/14398
+END
+ENDREP
+id: 2c-19.0-46.r46/15422
+type: dir
+pred: 2c-19.0.r19/213628
+count: 1
+text: 46 14660 749 0 39eb78c38e0ff6e5444fe604011e6e55
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging/Ionic
+copyfrom: 24 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip
+
+PLAIN
+K 5
+Ionic
+V 24
+dir 2c-19.0-46.r46/15422
+K 13
+TargetMode.cs
+V 24
+file 7-38.0-24.r38/10827
+K 13
+ZipPackage.cs
+V 25
+file ph-19.0-24.r45/72613
+K 17
+ZipPackagePart.cs
+V 25
+file b4-19.0-24.r38/11349
+K 25
+ZipPackageRelationship.cs
+V 23
+file q9-19.0.r19/214295
+K 29
+ZipPackageRelationshipBase.cs
+V 23
+file q1-19.0.r19/214545
+K 35
+ZipPackageRelationshipCollection.cs
+V 25
+file h2-19.0-24.r38/11627
+END
+ENDREP
+id: 2b-19.0-24.r46/16088
+type: dir
+pred: 2b-19.0-24.r45/73301
+count: 4
+text: 46 15682 393 0 ef4f3770baa69fb905cc0a073224abab
+cpath: /Encompass One/Encompass.Reporting/Data/Packaging
+copyroot: 24 /Encompass One
+
+PLAIN
+K 14
+AddressBase.cs
+V 25
+file 42-33.0-24.r33/29252
+K 18
+BackgroundImage.cs
+V 25
+file jy-19.0-24.r33/29497
+K 11
+CalcMode.cs
+V 25
+file 1e-33.0-24.r33/29767
+K 14
+CellAddress.cs
+V 23
+file 13d-19.0.r19/58459
+K 11
+CellBase.cs
+V 25
+file nb-19.0-24.r33/30005
+K 12
+CellFlags.cs
+V 25
+file 39-33.0-24.r33/30266
+K 12
+CellStore.cs
+V 26
+file 13n-19.0-24.r33/30506
+K 23
+CellsStoreEnumerator.cs
+V 25
+file 44-33.0-24.r33/30775
+K 13
+Chartsheet.cs
+V 25
+file 22-33.0-24.r33/31027
+K 14
+ColumnIndex.cs
+V 25
+file 2w-33.0-24.r33/31267
+K 10
+Comment.cs
+V 25
+file x4-19.0-24.r33/31509
+K 20
+CommentCollection.cs
+V 26
+file 14l-19.0-24.r33/31770
+K 19
+CompressionLevel.cs
+V 25
+file 1z-33.0-24.r33/32044
+K 21
+ConditionalFormatting
+V 24
+dir 1c-19.0-24.r42/14429
+K 12
+DataTypes.cs
+V 25
+file 28-33.0-24.r33/53998
+K 14
+DataValidation
+V 23
+dir 1h-19.0-24.r41/4776
+K 11
+Document.cs
+V 26
+file 12r-19.0-24.r33/57027
+K 21
+DocumentEncryption.cs
+V 26
+file 16h-19.0-24.r33/57291
+K 21
+DocumentProperties.cs
+V 25
+file rh-19.0-33.r33/57567
+K 7
+Drawing
+V 24
+dir 1n-19.0-24.r40/35335
+K 10
+Encryption
+V 23
+dir 1r-19.0-24.r39/7410
+K 22
+EncryptionAlgorithm.cs
+V 25
+file 2e-33.0-24.r33/60393
+K 20
+EncryptionVersion.cs
+V 25
+file 4d-33.0-24.r33/60642
+K 16
+FlagCellStore.cs
+V 25
+file 1v-33.0-24.r33/60889
+K 7
+Formula
+V 25
+dir 1s-19.0-24.r43/206806
+K 17
+FormulaAddress.cs
+V 25
+file 3t-33.0-24.r33/68384
+K 15
+HeaderFooter.cs
+V 25
+file 7w-19.0-24.r33/68630
+K 19
+HeaderFooterText.cs
+V 25
+file 3v-33.0-24.r33/68897
+K 12
+HyperLink.cs
+V 25
+file u2-19.0-24.r33/69146
+K 11
+IRangeID.cs
+V 24
+file 135-19.0.r19/199001
+K 12
+IndexBase.cs
+V 25
+file 3d-33.0-24.r33/69411
+K 12
+IndexItem.cs
+V 24
+file r-33.0-24.r33/69651
+K 13
+NamedRange.cs
+V 25
+file j1-19.0-24.r33/69888
+K 23
+NamedRangeCollection.cs
+V 25
+file c8-19.0-24.r33/70152
+K 14
+Orientation.cs
+V 25
+file 35-33.0-24.r33/70425
+K 9
+Packaging
+V 24
+dir 2b-19.0-24.r46/16088
+K 12
+PageIndex.cs
+V 25
+file 4g-33.0-24.r33/70666
+K 12
+PageOrder.cs
+V 24
+file 4-33.0-24.r33/70907
+K 12
+PaperSize.cs
+V 25
+file 3f-33.0-24.r33/71141
+K 19
+PictureAlignment.cs
+V 25
+file 3p-33.0-24.r33/71382
+K 18
+PrinterSettings.cs
+V 26
+file 10w-19.0-24.r33/71629
+K 17
+ProtectedRange.cs
+V 25
+file 57-19.0-24.r33/71902
+K 26
+ProtectedRangeAlgorithm.cs
+V 25
+file 3y-33.0-24.r33/72173
+K 27
+ProtectedRangeCollection.cs
+V 25
+file nl-19.0-24.r33/72427
+K 13
+Protection.cs
+V 25
+file np-19.0-24.r33/72705
+K 8
+Range.cs
+V 25
+file qr-19.0-24.r33/72969
+K 12
+RangeBase.cs
+V 23
+file qd-19.0-24.r35/271
+K 18
+RangeCollection.cs
+V 26
+file 127-19.0-24.r33/73496
+K 14
+RowInternal.cs
+V 25
+file 2k-33.0-24.r33/73768
+K 18
+SheetProtection.cs
+V 26
+file 19x-19.0-24.r33/74009
+K 18
+StyleCollection.cs
+V 25
+file dn-19.0-24.r33/74282
+K 6
+Styles
+V 24
+dir 2g-19.0-24.r37/19534
+K 15
+TableAddress.cs
+V 25
+file 11-33.0-24.r33/75885
+K 6
+Tables
+V 24
+dir 2k-19.0-24.r36/15276
+K 13
+TextFormat.cs
+V 25
+file d7-19.0-24.r33/76862
+K 5
+Utils
+V 23
+dir 2n-19.0-24.r35/2695
+K 3
+Vba
+V 23
+dir 2o-19.0-24.r34/7015
+K 18
+WorkSheetHidden.cs
+V 25
+file 1x-33.0-24.r33/77126
+K 11
+Workbook.cs
+V 26
+file 93-19.0-24.r43/207018
+K 15
+WorkbookView.cs
+V 25
+file cz-19.0-24.r33/77636
+K 12
+Worksheet.cs
+V 26
+file gb-19.0-24.r43/207287
+K 19
+WorksheetAddress.cs
+V 26
+file 153-19.1-33.r33/78169
+K 18
+WorksheetColumn.cs
+V 25
+file tk-19.0-24.r33/78480
+K 15
+WorksheetRow.cs
+V 25
+file 50-19.0-24.r33/78751
+K 18
+WorksheetStyles.cs
+V 25
+file ci-19.0-24.r33/79019
+K 16
+WorksheetView.cs
+V 25
+file 9k-19.0-24.r33/79290
+K 13
+Worksheets.cs
+V 25
+file xy-19.0-24.r33/79560
+K 12
+XmlHelper.cs
+V 23
+file zg-19.0.r19/239691
+K 19
+XmlHelperFactory.cs
+V 25
+file 62-19.0-24.r33/79826
+K 20
+XmlHelperInstance.cs
+V 24
+file p-33.0-24.r33/80097
+END
+ENDREP
+id: 1a-19.0-24.r46/19913
+type: dir
+pred: 1a-19.0-24.r45/77126
+count: 23
+text: 46 16299 3601 0 5e97384eae941e8435ba14cd552875a0
+cpath: /Encompass One/Encompass.Reporting/Data
+copyroot: 24 /Encompass One
+
+PLAIN
+K 4
+Data
+V 24
+dir 1a-19.0-24.r46/19913
+K 23
+Encompass.Reporting.snk
+V 23
+file pv-19.0.r19/242514
+K 10
+Properties
+V 22
+dir 2p-19.0.r19/243109
+K 16
+Reporting.csproj
+V 25
+file wu-19.0-24.r45/77329
+END
+ENDREP
+id: 19-19.0-24.r46/20327
+type: dir
+pred: 19-19.0-24.r45/77810
+count: 25
+text: 46 20116 198 0 997e5db9893491ac0da79b95e3e004ed
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass One/Encompass.Reporting
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 20
+dir 1-19.0.r22/14579
+K 24
+Encompass.Communications
+V 18
+dir b-19.0.r20/597
+K 17
+Encompass.Console
+V 20
+dir 13-19.0.r20/1180
+K 19
+Encompass.Reporting
+V 24
+dir 19-19.0-24.r46/20327
+K 13
+Encompass.sln
+V 19
+file 1-12.0.r18/206
+K 19
+Encompass.userprefs
+V 20
+file 4-12.0-24.r31/0
+END
+ENDREP
+id: 0-1.0-24.r46/20888
+type: dir
+pred: 0-1.0-24.r45/78371
+count: 45
+text: 46 20573 302 0 a93a221f4743174bd67700093617cba4
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 22
+dir 0-1.0-24.r46/20888
+END
+ENDREP
+id: 0.0.r46/21178
+type: dir
+pred: 0.0.r45/78661
+count: 46
+text: 46 21114 51 0 68c78f0bda93114e038a7025c2ab65ba
+cpath: /
+copyroot: 0 /
+
+2c-19.0-24.r45/72392 delete-dir false false /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip
+
+2c-19._0.t45-1f add-dir false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic
+24 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip
+t6-19.0.r19/199935 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/CRC32.cs
+
+dv-19.0.r19/200181 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ComHelper.cs
+
+1t-45._1.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ComparisonOperator.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/ComparisonOperator.cs
+2k-45._2.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/CompoundCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/CompoundCriterion.cs
+6-45._3.t45-1f add-dir false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Crc
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Crc
+d-45._4.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/DemonstrateFileSelector.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/DemonstrateFileSelector.cs
+en-19.0.r19/200429 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/EncryptionAlgorithm.cs
+
+z-45._5.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/EnumUtil.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/EnumUtil.cs
+sn-19.0.r19/200686 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Events.cs
+
+5t-19.0.r19/200933 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Exceptions.cs
+
+60-19.0.r19/201183 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ExtractExistingFileAction.cs
+
+rv-19._6.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/FileSelector.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/FileSelector.cs
+1p-45._7.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/LogicalConjunction.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/LogicalConjunction.cs
+29-45._8.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/NameCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/NameCriterion.cs
+19n-19.0.r19/201700 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/OffsetStream.cs
+
+2q-45._9.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/SelectionCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/SelectionCriterion.cs
+sr-19.0.r19/201954 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Shared.cs
+
+l-45._a.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/SizeCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/SizeCriterion.cs
+2y-45._b.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/TimeCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/TimeCriterion.cs
+2d-45._c.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/TypeCriterion.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/TypeCriterion.cs
+1l-45._d.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/WhichTime.cs
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/WhichTime.cs
+l5-19.0.r19/202201 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/WinZipAes.cs
+
+8-45._e.t45-1f add-dir false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zip
+45 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zip
+15n-19.0.r19/202452 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipConstants.cs
+
+110-19.0.r19/202704 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipCrypto.cs
+
+vi-19.0.r19/202955 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipDirEntry.cs
+
+ad-19.0.r19/203207 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipEntry.Extract.cs
+
+10o-19.0.r19/203464 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipEntry.Read.cs
+
+md-19.0.r19/203721 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipEntry.Write.cs
+
+18z-19.0.r19/203976 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipEntry.cs
+
+129-19.0.r19/204228 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipEntrySource.cs
+
+hs-19.0.r19/204483 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipErrorAction.cs
+
+ze-19.0.r19/204736 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.AddUpdate.cs
+
+8j-19.0.r19/204995 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Check.cs
+
+bv-19.0.r19/205249 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Events.cs
+
+cg-19.0.r19/205503 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Extract.cs
+
+q3-19.0.r19/205757 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Read.cs
+
+11x-19.0.r19/206010 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Save.cs
+
+12b-19.0.r19/206266 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.SaveSelfExtractor.cs
+
+e5-19.0.r19/206534 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.Selector.cs
+
+pl-19.0.r19/206791 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.cs
+
+bn-19.0.r19/207039 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipFile.x-IEnumerable.cs
+
+tw-19.0.r19/207296 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipInputStream.cs
+
+10s-19.0.r19/207551 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipOutputStream.cs
+
+gd-19.0.r19/207810 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/ZipSegmentedStream.cs
+
+14-44._f.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/Adler.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/Adler.cs
+9-44._g.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/BlockState.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/BlockState.cs
+7-44._h.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionLevel.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionLevel.cs
+g-44._i.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionMode.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionMode.cs
+y-44._j.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/CompressionStrategy.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/CompressionStrategy.cs
+jc-19.0.r19/208068 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/Deflate.cs
+
+r-44._k.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateFlavor.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateFlavor.cs
+jc-19._l.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateManager.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateManager.cs
+cr-19._m.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/DeflateStream.cs
+38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/DeflateStream.cs
+w-44._n.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/FlushType.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/FlushType.cs
+mh-19._o.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/GZipStream.cs
+38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/GZipStream.cs
+4m-19.0.r19/209090 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/Inflate.cs
+
+u-44._p.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateBlocks.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateBlocks.cs
+c-44._q.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateCodes.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateCodes.cs
+4m-19._r.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InflateManager.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InflateManager.cs
+l-44._s.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InternalConstants.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InternalConstants.cs
+n-44._t.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/InternalInflateConstants.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/InternalInflateConstants.cs
+lb-19._u.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ParallelDeflateOutputStream.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ParallelDeflateOutputStream.cs
+12-44._v.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/SharedUtils.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/SharedUtils.cs
+i-44._w.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/StaticTree.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/StaticTree.cs
+e-44._x.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/WorkItem.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/WorkItem.cs
+y6-19.0.r19/209863 delete-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/Zlib.cs
+
+15z-19._y.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibBaseStream.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibBaseStream.cs
+y6-19._z.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibException.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibException.cs
+12x-19._10.t45-1f replace-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibStream.cs
+38 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibStream.cs
+10-44._11.t45-1f add-file false false /Encompass One/Encompass.Reporting/Data/Packaging/Ionic/Zlib/ZlibStreamFlavor.cs
+44 /Encompass One/Encompass.Reporting/Data/Packaging/DotNetZip/Zlib/ZlibStreamFlavor.cs
+
+21178 21313

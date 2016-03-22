@@ -1,0 +1,91 @@
+PLAIN
+K 4
+Data
+V 22
+dir c7-2.0.r2/20823978
+K 30
+Encompass.Reporting.4.5.csproj
+V 24
+file 12q-2.0.r2/20824145
+K 23
+Encompass.Reporting.snk
+V 24
+file 86p-2.0.r2/20824392
+K 10
+Properties
+V 22
+dir dm-2.0.r2/20824998
+END
+ENDREP
+id: c6-2.0.r10/223
+type: dir
+pred: c6-2.0.r2/20828858
+count: 1
+text: 10 0 210 0 52fec54ea6959dd3bfbeee493751454a
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Encompass.Reporting.4.5
+copyroot: 0 /
+
+PLAIN
+K 14
+Amazon.SDK.3.5
+V 17
+dir 1-2.0.r5/2769
+K 14
+Amazon.SDK.4.5
+V 18
+dir 9h-2.0.r7/2445
+K 28
+Encompass.Communications.4.5
+V 17
+dir b8-2.0.r8/267
+K 21
+Encompass.Console.4.5
+V 17
+dir c0-2.0.r9/383
+K 19
+Encompass.Mango.sln
+V 24
+file c6c-2.0.r2/20635716
+K 23
+Encompass.Reporting.4.5
+V 18
+dir c6-2.0.r10/223
+K 17
+Encompass.SDK.4.5
+V 22
+dir dt-2.0.r2/20833069
+END
+ENDREP
+id: 0-1.0.r10/818
+type: dir
+pred: 0-1.0.r9/978
+count: 9
+text: 10 448 357 0 3e6f7f3c83ce68dea43ae57ab5346874
+props: 3 0 52 0 d5819266011764974fb8da7ee72152aa
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 17
+dir 0-1.0.r10/818
+END
+ENDREP
+id: 0.0.r10/1075
+type: dir
+pred: 0.0.r9/1232
+count: 10
+text: 10 1014 48 0 2461cb682899e7c8c6fa73439abc5c93
+cpath: /
+copyroot: 0 /
+
+c6-2.0.t9-a modify-dir false true /Encompass.Mango/Encompass.Reporting.4.5
+
+dn-2.0.r2/20826159 delete-dir false false /Encompass.Mango/Encompass.Reporting.4.5/bin
+
+dq-2.0.r2/20828399 delete-dir false false /Encompass.Mango/Encompass.Reporting.4.5/obj
+
+
+1075 1206

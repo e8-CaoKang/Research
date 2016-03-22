@@ -1,0 +1,72 @@
+id: 1-78.0-24.r80/0
+type: dir
+pred: 1-78.0-24.r79/1435
+count: 2
+text: 79 1315 107 0 3e0c23eb319978ea079ba0483202eab7
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass One/Encompass.Elements
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 22
+dir 1-19.0-24.r71/6430
+K 24
+Encompass.Communications
+V 21
+dir b-19.0-24.r74/766
+K 17
+Encompass.Console
+V 23
+dir 13-19.0-24.r66/2930
+K 18
+Encompass.Elements
+V 19
+dir 1-78.0-24.r80/0
+K 19
+Encompass.Reporting
+V 23
+dir 19-19.0-24.r77/1421
+K 13
+Encompass.sln
+V 23
+file 1-12.0-24.r73/1838
+K 19
+Encompass.userprefs
+V 23
+file 4-12.0-24.r79/1624
+K 8
+Packages
+V 25
+dir 1-55.0-24.r55/1647930
+END
+ENDREP
+id: 0-1.0-24.r80/658
+type: dir
+pred: 0-1.0-24.r79/2292
+count: 79
+text: 80 236 409 0 218db111b4af45de35f1d876f7fd1762
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 20
+dir 0-1.0-24.r80/658
+END
+ENDREP
+id: 0.0.r80/941
+type: dir
+pred: 0.0.r79/2578
+count: 80
+text: 80 879 49 0 aae5c8400eda16c34c784db118a06983
+cpath: /
+copyroot: 0 /
+
+1-78.0-24.t79-2i modify-dir false true /Encompass One/Encompass.Elements
+
+
+941 1071

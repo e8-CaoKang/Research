@@ -1,0 +1,63 @@
+id: 4-12.0-24.r31/0
+type: file
+pred: 4-12.0-24.r26/7609
+count: 5
+text: 24 0 91 332 4b31fa8b2ec55c8b705319b12b2ce2ec e1fa266cf189d6377641bb9675edb8c675cd08e4 30-x/_2
+cpath: /Encompass One/Encompass.userprefs
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 20
+dir 1-19.0.r22/14579
+K 24
+Encompass.Communications
+V 18
+dir b-19.0.r20/597
+K 17
+Encompass.Console
+V 20
+dir 13-19.0.r20/1180
+K 19
+Encompass.Reporting
+V 22
+dir 19-19.0-24.r30/791
+K 13
+Encompass.sln
+V 19
+file 1-12.0.r18/206
+K 19
+Encompass.userprefs
+V 20
+file 4-12.0-24.r31/0
+END
+ENDREP
+id: 0-1.0-24.r31/549
+type: dir
+pred: 0-1.0-24.r30/1349
+count: 30
+text: 31 236 300 0 f88d3e4e2ae6a85489b25ed7cec3f126
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 20
+dir 0-1.0-24.r31/549
+END
+ENDREP
+id: 0.0.r31/832
+type: dir
+pred: 0.0.r30/1636
+count: 31
+text: 31 770 49 0 e3d06206406583b165b02774a0f8cdb3
+cpath: /
+copyroot: 0 /
+
+4-12.0-24.t30-x modify-file true false /Encompass One/Encompass.userprefs
+
+
+832 962

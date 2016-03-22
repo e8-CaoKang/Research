@@ -1,0 +1,141 @@
+id: 3-72.0-24.r72/0
+type: dir
+count: 0
+cpath: /Encompass One/Encompass.Shared/Properties
+copyroot: 24 /Encompass One
+
+id: 6-72.0-24.r72/118
+type: dir
+count: 0
+cpath: /Encompass One/Encompass.Shared/bin/Debug
+copyroot: 24 /Encompass One
+
+PLAIN
+K 5
+Debug
+V 21
+dir 6-72.0-24.r72/118
+END
+ENDREP
+id: 5-72.0-24.r72/291
+type: dir
+count: 0
+text: 72 237 41 0 26e22d2d4ff0a306a27a1e6dcb662725
+cpath: /Encompass One/Encompass.Shared/bin
+copyroot: 24 /Encompass One
+
+id: 9-72.0-24.r72/455
+type: dir
+count: 0
+cpath: /Encompass One/Encompass.Shared/obj/Debug
+copyroot: 24 /Encompass One
+
+PLAIN
+K 5
+Debug
+V 21
+dir 9-72.0-24.r72/455
+END
+ENDREP
+id: 8-72.0-24.r72/628
+type: dir
+count: 0
+text: 72 574 41 0 246d854da9b73b362a4ea7043b81849d
+cpath: /Encompass One/Encompass.Shared/obj
+copyroot: 24 /Encompass One
+
+PLAIN
+K 10
+Properties
+V 19
+dir 3-72.0-24.r72/0
+K 3
+bin
+V 21
+dir 5-72.0-24.r72/291
+K 3
+obj
+V 21
+dir 8-72.0-24.r72/628
+END
+ENDREP
+id: 2-72.0-24.r72/920
+type: dir
+count: 0
+text: 72 792 115 0 c9fb803329d4547db2733fc6e204cb6b
+cpath: /Encompass One/Encompass.Shared
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass.API
+V 22
+dir 1-19.0-24.r71/6430
+K 24
+Encompass.Communications
+V 22
+dir b-19.0-24.r66/2074
+K 17
+Encompass.Console
+V 23
+dir 13-19.0-24.r66/2930
+K 19
+Encompass.Reporting
+V 23
+dir 19-19.0-24.r71/7665
+K 16
+Encompass.Shared
+V 21
+dir 2-72.0-24.r72/920
+K 13
+Encompass.sln
+V 23
+file 1-12.0-24.r54/3938
+K 19
+Encompass.userprefs
+V 23
+file 4-12.0-24.r71/9006
+K 8
+Packages
+V 25
+dir 1-55.0-24.r55/1647930
+END
+ENDREP
+id: 0-1.0-24.r72/1504
+type: dir
+pred: 0-1.0-24.r71/9676
+count: 71
+text: 72 1081 410 0 b9b2562b998ff0b641c4edeb4f66cdda
+props: 12 2048 46 0 ca57c2bcabfe5d1f619ca801ee37edce
+cpath: /Encompass One
+copyroot: 24 /Encompass One
+
+PLAIN
+K 13
+Encompass One
+V 21
+dir 0-1.0-24.r72/1504
+END
+ENDREP
+id: 0.0.r72/1790
+type: dir
+pred: 0.0.r71/9962
+count: 72
+text: 72 1727 50 0 b131922bc43c22e56737c181b4095aa3
+cpath: /
+copyroot: 0 /
+
+_2.0-24.t71-29 replace-dir false false /Encompass One/Encompass.Shared
+
+_3.0-24.t71-29 add-dir false false /Encompass One/Encompass.Shared/Properties
+
+_5.0-24.t71-29 add-dir false false /Encompass One/Encompass.Shared/bin
+
+_6.0-24.t71-29 add-dir false false /Encompass One/Encompass.Shared/bin/Debug
+
+_8.0-24.t71-29 add-dir false false /Encompass One/Encompass.Shared/obj
+
+_9.0-24.t71-29 add-dir false false /Encompass One/Encompass.Shared/obj/Debug
+
+
+1790 1922

@@ -1,0 +1,259 @@
+PLAIN
+K 19
+AWSClientFactory.cs
+V 24
+file 7tk-2.0.r2/20527952
+K 19
+AWSClientFactory.tt
+V 24
+file 89b-2.0.r2/20528182
+K 17
+Amazon.AWSSupport
+V 22
+dir 9i-2.0.r2/20529044
+K 18
+Amazon.AutoScaling
+V 22
+dir 9k-2.0.r2/20529856
+K 21
+Amazon.CloudFormation
+V 22
+dir 9l-2.0.r2/20530685
+K 17
+Amazon.CloudFront
+V 22
+dir 9m-2.0.r2/20531493
+K 18
+Amazon.CloudSearch
+V 22
+dir 9n-2.0.r2/20532303
+K 24
+Amazon.CloudSearchDomain
+V 22
+dir 9o-2.0.r2/20533149
+K 29
+Amazon.CloudSearch_2011_02_01
+V 22
+dir 9p-2.0.r2/20533986
+K 17
+Amazon.CloudTrail
+V 22
+dir 9q-2.0.r2/20534803
+K 17
+Amazon.CloudWatch
+V 22
+dir 9r-2.0.r2/20535608
+K 21
+Amazon.CloudWatchLogs
+V 22
+dir 9s-2.0.r2/20536431
+K 22
+Amazon.CognitoIdentity
+V 22
+dir 9t-2.0.r2/20537268
+K 18
+Amazon.CognitoSync
+V 22
+dir 9u-2.0.r2/20538083
+K 19
+Amazon.DataPipeline
+V 22
+dir 9v-2.0.r2/20538901
+K 20
+Amazon.DirectConnect
+V 22
+dir 9w-2.0.r2/20539725
+K 17
+Amazon.DynamoDBv2
+V 22
+dir 9x-2.0.r2/20546931
+K 10
+Amazon.EC2
+V 22
+dir a1-2.0.r2/20547697
+K 18
+Amazon.ElastiCache
+V 22
+dir a2-2.0.r2/20548503
+K 23
+Amazon.ElasticBeanstalk
+V 22
+dir a3-2.0.r2/20549343
+K 27
+Amazon.ElasticLoadBalancing
+V 22
+dir a4-2.0.r2/20550216
+K 23
+Amazon.ElasticMapReduce
+V 22
+dir a5-2.0.r2/20551065
+K 24
+Amazon.ElasticTranscoder
+V 22
+dir a6-2.0.r2/20551911
+K 14
+Amazon.Glacier
+V 22
+dir a7-2.0.r2/20552703
+K 25
+Amazon.IdentityManagement
+V 22
+dir a8-2.0.r2/20553583
+K 19
+Amazon.ImportExport
+V 22
+dir a9-2.0.r2/20554406
+K 14
+Amazon.Kinesis
+V 22
+dir aa-2.0.r2/20555195
+K 15
+Amazon.OpsWorks
+V 22
+dir ab-2.0.r2/20555983
+K 10
+Amazon.RDS
+V 22
+dir ac-2.0.r2/20556746
+K 15
+Amazon.Redshift
+V 22
+dir ad-2.0.r2/20557535
+K 14
+Amazon.Route53
+V 22
+dir ae-2.0.r2/20558320
+K 21
+Amazon.Route53Domains
+V 22
+dir af-2.0.r2/20559144
+K 14
+Amazon.Runtime
+V 22
+dir ag-2.0.r2/20562170
+K 9
+Amazon.S3
+V 22
+dir ao-2.0.r2/20567533
+K 21
+Amazon.SDK.4.5.csproj
+V 24
+file 2ex-2.0.r2/20567695
+K 10
+Amazon.SQS
+V 22
+dir au-2.0.r2/20568520
+K 20
+Amazon.SecurityToken
+V 22
+dir av-2.0.r2/20569364
+K 15
+Amazon.SimpleDB
+V 22
+dir aw-2.0.r2/20570159
+K 18
+Amazon.SimpleEmail
+V 22
+dir ax-2.0.r2/20570995
+K 32
+Amazon.SimpleNotificationService
+V 22
+dir ay-2.0.r2/20571892
+K 21
+Amazon.SimpleWorkflow
+V 22
+dir az-2.0.r2/20572734
+K 21
+Amazon.StorageGateway
+V 22
+dir b0-2.0.r2/20573570
+K 21
+GlobalSuppressions.cs
+V 24
+file d7g-2.0.r2/20573744
+K 10
+Properties
+V 22
+dir b1-2.0.r2/20574277
+K 22
+SupportServicesList.tt
+V 24
+file 9oe-2.0.r2/20574439
+K 14
+awssdk.dll.snk
+V 24
+file bl2-2.0.r2/20574669
+END
+ENDREP
+id: 9h-2.0.r7/2445
+type: dir
+pred: 9h-2.0.r2/20581597
+count: 1
+text: 7 0 2432 0 b3e0ebdd4c36126475b7a14deb9a075d
+props: 4 0 29 0 d9ce77289cb3436931031dff6a31c100
+cpath: /Encompass.Mango/Amazon.SDK.4.5
+copyroot: 0 /
+
+PLAIN
+K 14
+Amazon.SDK.3.5
+V 17
+dir 1-2.0.r5/2769
+K 14
+Amazon.SDK.4.5
+V 18
+dir 9h-2.0.r7/2445
+K 28
+Encompass.Communications.4.5
+V 22
+dir b8-2.0.r2/20628087
+K 21
+Encompass.Console.4.5
+V 22
+dir c0-2.0.r2/20635557
+K 19
+Encompass.Mango.sln
+V 24
+file c6c-2.0.r2/20635716
+K 23
+Encompass.Reporting.4.5
+V 22
+dir c6-2.0.r2/20828858
+K 17
+Encompass.SDK.4.5
+V 22
+dir dt-2.0.r2/20833069
+END
+ENDREP
+id: 0-1.0.r7/3045
+type: dir
+pred: 0-1.0.r6/388
+count: 6
+text: 7 2661 371 0 1a02a20d0f87b2641a0982b4bf55495d
+props: 3 0 52 0 d5819266011764974fb8da7ee72152aa
+cpath: /Encompass.Mango
+copyroot: 0 /
+
+PLAIN
+K 15
+Encompass.Mango
+V 17
+dir 0-1.0.r7/3045
+END
+ENDREP
+id: 0.0.r7/3302
+type: dir
+pred: 0.0.r6/641
+count: 7
+text: 7 3241 48 0 80352ea7bf54ffea76fccaa08d7781cd
+cpath: /
+copyroot: 0 /
+
+9h-2.0.t6-7 modify-dir false true /Encompass.Mango/Amazon.SDK.4.5
+
+b2-2.0.r2/20575875 delete-dir false false /Encompass.Mango/Amazon.SDK.4.5/bin
+
+b5-2.0.r2/20578925 delete-dir false false /Encompass.Mango/Amazon.SDK.4.5/obj
+
+
+3302 3429
